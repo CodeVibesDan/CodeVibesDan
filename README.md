@@ -1,8 +1,24 @@
-## Hi there 👋
+# Привет, я Панкратов Данила Викторович 👋
 
-<div id="header" align="center">
-  <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWltcHA5cXlhcGZ5OHJxdGtqOTBtNWc2OHN6cGswbTIyNjllNXVyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="The Unlimited" width="600"/>
-</div>
+Я начинающий Python-разработчик с интересом в искусственном интеллекте.
 
-# My tools
-<img width="50" height="50" src="https://img.icons8.com/color/50/python.png" alt="python"/>
+## 💻 Мои технологии:
+- Python
+- Django
+- JavaScript
+- HTML/CSS
+
+## 📚 Мой процесс обучения:
+- Курсы Python и английского в Urban Universiti.
+- Самостоятельное изучение AI и Data Science.
+
+## 🚀 Мои достижения:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilavak&show_icons=true&count_private=true)
+
+## 📬 Связаться со мной:
+- Email: pahex310@gmail.com
+- Telegram: [https://t.me/Pikachuuyyuy](https://t.me/your_username)
+
+<!-- ## 🌐 Мои проекты:
+- [Проект 1](https://github.com/username/project1)
+- [Проект 2](https://github.com/username/project2) -->
