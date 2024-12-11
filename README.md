@@ -12,7 +12,7 @@
 - Курсы Python и английского в Urban Universiti.
 - Самостоятельное изучение AI и Data Science.
 
-## 🚀 Мои достижения:
+//## 🚀 Мои достижения:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilavak&show_icons=true&count_private=true)
 
 ## 📬 Связаться со мной:
