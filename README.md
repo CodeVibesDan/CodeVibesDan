@@ -14,7 +14,7 @@
 <!--
 ## 🚀 Мои достижения:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilavak&show_icons=true&count_private=true)
--->
+
 ## 📬 Связаться со мной:
 - Email: pahex310@gmail.com
 - Telegram: [https://t.me/Pikachuuyyuy](https://t.me/your_username)
