@@ -4,9 +4,10 @@
 
 ## 💻 Мои технологии:
 - Python
-- Django
-- PyGame
-- HTML/CSS
+- TensorFlow (https://www.tensorflow.org/?hl=ru)
+- PyTorch (https://pytorch.org/)
+- Django and HTML/CSS
+- OpenCV (https://opencv.org/)
 
 ## 📚 Мой процесс обучения:
 - Курсы Python и английского в Urban Universiti.
